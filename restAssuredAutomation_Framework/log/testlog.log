@@ -1,0 +1,281 @@
+2019-06-24 20:08:49,623 - BaseTest -INFO - *****Test started TC001_GetWeatherDetails*****
+2019-06-24 20:08:57,721 - BaseTest -INFO - *****Vaidating status code of the response*****
+2019-06-24 20:08:57,736 - BaseTest -INFO - *****Test Completed*****
+2019-06-25 07:41:08,649 - BaseTest -INFO - *****Test started TC001_GetWeatherDetails*****
+2019-06-25 07:41:17,334 - BaseTest -INFO - *****Validating content-type Header field*****
+2019-06-25 07:41:17,367 - BaseTest -INFO - *****Validating response body*****
+2019-06-25 07:41:17,490 - BaseTest -INFO - *****Vaidating status code of the response*****
+2019-06-25 07:41:17,490 - BaseTest -INFO - *****Validating status line of the response*****
+2019-06-25 07:41:17,506 - BaseTest -INFO - *****Test Completed*****
+2019-06-25 07:43:43,191 - BaseTest -INFO - *****Test started TC001_GetWeatherDetails*****
+2019-06-25 07:43:50,683 - BaseTest -INFO - *****Validating content-type Header field*****
+2019-06-25 07:43:50,691 - BaseTest -INFO - *****Validating response body*****
+2019-06-25 07:43:50,754 - BaseTest -INFO - *****Vaidating status code of the response*****
+2019-06-25 07:43:50,770 - BaseTest -INFO - *****Validating status line of the response*****
+2019-06-25 07:43:50,785 - BaseTest -INFO - *****Test Completed*****
+2019-06-25 13:15:46,870 - BaseTest -INFO - *****Test started TC001_GetWeatherDetails*****
+2019-06-25 13:15:56,685 - BaseTest -INFO - *****Validating content-type Header field*****
+2019-06-25 13:15:56,688 - BaseTest -INFO - *****Validating response body*****
+2019-06-25 13:15:56,798 - BaseTest -INFO - *****Validating response time*****
+2019-06-25 13:15:56,798 - BaseTest -INFO - *****Vaidating status code of the response*****
+2019-06-25 13:15:56,813 - BaseTest -INFO - *****Validating status line of the response*****
+2019-06-25 13:15:56,829 - BaseTest -INFO - *****Test Completed*****
+2019-06-25 18:19:34,165 - BaseTest -INFO - *****TC002 Started for Post request*****
+2019-06-25 18:19:41,943 - BaseTest -INFO - *****Verify response body contains the input params*****
+2019-06-25 18:19:42,000 - BaseTest -INFO - *****Verifying status code of the response*****
+2019-06-25 18:20:44,122 - BaseTest -INFO - *****TC002 Started for Post request*****
+2019-06-25 18:22:15,032 - BaseTest -INFO - *****TC002 Started for Post request*****
+2019-06-25 18:22:22,813 - BaseTest -INFO - *****Verify response body contains the input params*****
+2019-06-25 18:22:22,895 - BaseTest -INFO - *****Verifying status code of the response*****
+2019-06-25 18:40:31,670 - BaseTest -INFO - *****TC002 Started for Post request*****
+2019-06-25 18:40:39,795 - BaseTest -INFO - *****Verify response body contains the input params*****
+2019-06-25 18:40:39,835 - BaseTest -INFO - *****Verifying status code of the response*****
+2019-06-25 18:42:15,640 - BaseTest -INFO - *****TC002 Started for Post request*****
+2019-06-25 18:42:23,404 - BaseTest -INFO - *****Verify response body contains the input params*****
+2019-06-25 18:42:23,448 - BaseTest -INFO - *****Verifying status code of the response*****
+2019-06-25 18:42:23,452 - BaseTest -INFO - *****Verify status line of the response*****
+2019-06-25 18:44:20,336 - BaseTest -INFO - *****TC002 Started for Post request*****
+2019-06-25 18:44:28,318 - BaseTest -INFO - *****Verify response body contains the input params*****
+2019-06-25 18:44:28,389 - BaseTest -INFO - *****Verifying status code of the response*****
+2019-06-25 18:44:28,417 - BaseTest -INFO - *****Verify status line of the response*****
+2019-06-25 19:04:53,221 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-25 19:04:53,293 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-25 19:05:34,056 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-25 19:05:34,103 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-25 19:06:19,461 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-25 19:06:19,492 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-25 19:08:13,168 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-25 19:08:13,224 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-25 19:09:10,816 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-25 19:09:10,848 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-25 19:12:15,515 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-25 19:12:15,553 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-25 19:14:03,835 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-25 19:14:03,873 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-25 19:15:04,859 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-25 19:15:04,893 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-25 19:26:54,510 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-25 19:26:54,524 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-25 19:29:14,100 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-25 19:29:14,124 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-25 20:15:04,044 - BaseTest -INFO - *****TC_004 delete employee data test started*****
+2019-06-25 20:15:04,127 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-25 20:16:42,642 - BaseTest -INFO - *****TC_004 delete employee data test started*****
+2019-06-25 20:16:42,719 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-25 20:33:08,072 - BaseTest -INFO - *****TC_004 delete employee data test started*****
+2019-06-25 20:33:08,119 - BaseTest -INFO - ****Delete employee data****
+2019-06-25 20:33:08,147 - BaseTest -INFO - *****Verify status code of delete request*****
+2019-06-25 20:33:08,163 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-25 20:33:13,338 - BaseTest -INFO - *****TC004_Del Emp data is completed*****
+2019-06-25 20:39:20,064 - BaseTest -INFO - *****TC_004 delete employee data test started*****
+2019-06-25 20:39:20,109 - BaseTest -INFO - ****Delete employee data****
+2019-06-25 20:39:20,141 - BaseTest -INFO - *****Verify status code of delete request*****
+2019-06-25 20:39:20,153 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-25 20:39:25,035 - BaseTest -INFO - *****TC004_Del Emp data is completed*****
+2019-06-25 20:41:18,057 - BaseTest -INFO - *****TC_004 delete employee data test started*****
+2019-06-25 20:41:18,101 - BaseTest -INFO - ****Delete employee data****
+2019-06-25 20:41:18,129 - BaseTest -INFO - *****Verify status code of delete request*****
+2019-06-25 20:41:18,145 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-25 20:41:23,382 - BaseTest -INFO - *****TC004_Del Emp data is completed*****
+2019-06-25 20:42:19,802 - BaseTest -INFO - *****TC_004 delete employee data test started*****
+2019-06-25 20:42:19,847 - BaseTest -INFO - ****Delete employee data****
+2019-06-25 20:42:19,879 - BaseTest -INFO - *****Verify status code of delete request*****
+2019-06-25 20:42:19,895 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-25 20:42:29,890 - BaseTest -INFO - *****TC004_Del Emp data is completed*****
+2019-06-25 20:43:39,167 - BaseTest -INFO - *****TC_004 delete employee data test started*****
+2019-06-25 20:43:39,215 - BaseTest -INFO - ****Delete employee data****
+2019-06-25 20:43:39,243 - BaseTest -INFO - *****Verify status code of delete request*****
+2019-06-25 20:43:39,251 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-25 20:43:49,161 - BaseTest -INFO - *****TC004_Del Emp data is completed*****
+2019-06-25 20:45:05,798 - BaseTest -INFO - *****TC_004 delete employee data test started*****
+2019-06-25 20:45:05,845 - BaseTest -INFO - ****Delete employee data****
+2019-06-25 20:45:05,877 - BaseTest -INFO - *****Verify status code of delete request*****
+2019-06-25 20:45:05,897 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-25 20:45:16,074 - BaseTest -INFO - *****TC004_Del Emp data is completed*****
+2019-06-25 20:46:01,830 - BaseTest -INFO - *****TC_004 delete employee data test started*****
+2019-06-25 20:46:01,876 - BaseTest -INFO - *****Verify status code of delete request*****
+2019-06-25 20:46:01,908 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-25 20:46:11,804 - BaseTest -INFO - ****Delete employee data****
+2019-06-25 20:46:15,716 - BaseTest -INFO - *****TC004_Del Emp data is completed*****
+2019-06-25 20:47:13,714 - BaseTest -INFO - *****TC_004 delete employee data test started*****
+2019-06-25 20:47:13,752 - BaseTest -INFO - *****Verify status code of delete request*****
+2019-06-25 20:47:13,784 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-25 20:47:23,790 - BaseTest -INFO - ****Delete employee data****
+2019-06-25 20:47:23,796 - BaseTest -INFO - *****TC004_Del Emp data is completed*****
+2019-06-25 20:56:41,006 - BaseTest -INFO - *****Test started TC001_GetWeatherDetails*****
+2019-06-25 20:56:50,843 - BaseTest -INFO - *****Validating content-type Header field*****
+2019-06-25 20:56:50,859 - BaseTest -INFO - *****Validating response body*****
+2019-06-25 20:56:50,919 - BaseTest -INFO - *****Validating response time*****
+2019-06-25 20:56:50,927 - BaseTest -INFO - *****Vaidating status code of the response*****
+2019-06-25 20:56:50,939 - BaseTest -INFO - *****Validating status line of the response*****
+2019-06-25 20:56:50,951 - BaseTest -INFO - *****Test Completed*****
+2019-06-25 20:56:50,967 - BaseTest -INFO - *****TC002 Started for Post request*****
+2019-06-25 20:56:55,448 - BaseTest -INFO - *****Verify response body contains the input params*****
+2019-06-25 20:56:55,462 - BaseTest -INFO - *****Verifying status code of the response*****
+2019-06-25 20:56:55,474 - BaseTest -INFO - *****Verify status line of the response*****
+2019-06-25 20:56:55,482 - BaseTest -INFO - *****TC002_PostRequestAddEmployee Test completed******
+2019-06-25 20:56:55,494 - BaseTest -INFO - *****TC003_PutRequest update employee info started******
+2019-06-25 20:56:55,498 - BaseTest -INFO - *****Update employee details based on emp ID******
+2019-06-25 20:56:55,506 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-25 20:56:59,275 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-25 20:56:59,284 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-25 20:59:47,543 - BaseTest -INFO - *****Test started TC001_GetWeatherDetails*****
+2019-06-25 20:59:56,525 - BaseTest -INFO - *****Validating content-type Header field*****
+2019-06-25 20:59:56,539 - BaseTest -INFO - *****Validating response body*****
+2019-06-25 20:59:56,595 - BaseTest -INFO - *****Validating response time*****
+2019-06-25 20:59:56,603 - BaseTest -INFO - *****Vaidating status code of the response*****
+2019-06-25 20:59:56,615 - BaseTest -INFO - *****Validating status line of the response*****
+2019-06-25 20:59:56,623 - BaseTest -INFO - *****Test Completed*****
+2019-06-25 20:59:56,635 - BaseTest -INFO - *****TC002 Started for Post request*****
+2019-06-25 21:00:00,679 - BaseTest -INFO - *****Verify response body contains the input params*****
+2019-06-25 21:00:00,691 - BaseTest -INFO - *****Verifying status code of the response*****
+2019-06-25 21:00:00,699 - BaseTest -INFO - *****Verify status line of the response*****
+2019-06-25 21:00:00,703 - BaseTest -INFO - *****TC002_PostRequestAddEmployee Test completed******
+2019-06-25 21:00:00,711 - BaseTest -INFO - *****TC003_PutRequest update employee info started******
+2019-06-25 21:00:00,715 - BaseTest -INFO - *****Update employee details based on emp ID******
+2019-06-25 21:00:00,719 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-25 21:00:04,507 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-25 21:00:04,520 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-26 10:46:40,239 - BaseTest -INFO - *****Test started TC001_GetWeatherDetails*****
+2019-06-26 10:46:49,104 - BaseTest -INFO - *****Validating content-type Header field*****
+2019-06-26 10:46:49,121 - BaseTest -INFO - *****Validating response body*****
+2019-06-26 10:46:49,174 - BaseTest -INFO - *****Validating response time*****
+2019-06-26 10:46:49,186 - BaseTest -INFO - *****Vaidating status code of the response*****
+2019-06-26 10:46:49,198 - BaseTest -INFO - *****Validating status line of the response*****
+2019-06-26 10:46:49,204 - BaseTest -INFO - *****Test Completed*****
+2019-06-26 10:46:49,219 - BaseTest -INFO - *****TC002 Started for Post request*****
+2019-06-26 10:46:53,778 - BaseTest -INFO - *****Verify response body contains the input params*****
+2019-06-26 10:46:53,791 - BaseTest -INFO - *****Verifying status code of the response*****
+2019-06-26 10:46:53,804 - BaseTest -INFO - *****Verify status line of the response*****
+2019-06-26 10:46:53,807 - BaseTest -INFO - *****TC002_PostRequestAddEmployee Test completed******
+2019-06-26 10:46:53,816 - BaseTest -INFO - *****TC003_PutRequest update employee info started******
+2019-06-26 10:46:53,821 - BaseTest -INFO - *****Update employee details based on emp ID******
+2019-06-26 10:46:53,826 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-26 10:46:59,836 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-26 10:46:59,851 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-26 10:48:33,488 - BaseTest -INFO - *****TC003_PutRequest update employee info started******
+2019-06-26 10:48:33,537 - BaseTest -INFO - *****Update employee details based on emp ID******
+2019-06-26 10:48:33,568 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-26 10:48:52,184 - BaseTest -INFO - *****Test started TC001_GetWeatherDetails*****
+2019-06-26 10:48:59,709 - BaseTest -INFO - *****Validating content-type Header field*****
+2019-06-26 10:48:59,722 - BaseTest -INFO - *****Validating response body*****
+2019-06-26 10:48:59,785 - BaseTest -INFO - *****Validating response time*****
+2019-06-26 10:48:59,785 - BaseTest -INFO - *****Vaidating status code of the response*****
+2019-06-26 10:48:59,800 - BaseTest -INFO - *****Validating status line of the response*****
+2019-06-26 10:48:59,816 - BaseTest -INFO - *****Test Completed*****
+2019-06-26 10:48:59,816 - BaseTest -INFO - *****TC002 Started for Post request*****
+2019-06-26 10:49:03,905 - BaseTest -INFO - *****Verify response body contains the input params*****
+2019-06-26 10:49:03,913 - BaseTest -INFO - *****Verifying status code of the response*****
+2019-06-26 10:49:03,928 - BaseTest -INFO - *****Verify status line of the response*****
+2019-06-26 10:49:03,928 - BaseTest -INFO - *****TC002_PostRequestAddEmployee Test completed******
+2019-06-26 10:49:03,944 - BaseTest -INFO - *****TC003_PutRequest update employee info started******
+2019-06-26 10:49:03,944 - BaseTest -INFO - *****Update employee details based on emp ID******
+2019-06-26 10:49:03,960 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-26 10:49:07,722 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-26 10:49:07,735 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-26 10:51:13,386 - BaseTest -INFO - *****TC003_PutRequest update employee info started******
+2019-06-26 10:51:13,440 - BaseTest -INFO - *****Update employee details based on emp ID******
+2019-06-26 10:51:13,471 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-26 10:51:21,717 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-26 10:52:57,065 - BaseTest -INFO - *****Test started TC001_GetWeatherDetails*****
+2019-06-26 10:53:04,876 - BaseTest -INFO - *****Validating content-type Header field*****
+2019-06-26 10:53:04,895 - BaseTest -INFO - *****Validating response body*****
+2019-06-26 10:53:04,942 - BaseTest -INFO - *****Validating response time*****
+2019-06-26 10:53:04,957 - BaseTest -INFO - *****Vaidating status code of the response*****
+2019-06-26 10:53:04,957 - BaseTest -INFO - *****Validating status line of the response*****
+2019-06-26 10:53:04,957 - BaseTest -INFO - *****Test Completed*****
+2019-06-26 10:53:04,973 - BaseTest -INFO - *****TC002 Started for Post request*****
+2019-06-26 10:53:09,053 - BaseTest -INFO - *****Verify response body contains the input params*****
+2019-06-26 10:53:09,058 - BaseTest -INFO - *****Verifying status code of the response*****
+2019-06-26 10:53:09,074 - BaseTest -INFO - *****Verify status line of the response*****
+2019-06-26 10:53:09,074 - BaseTest -INFO - *****TC002_PostRequestAddEmployee Test completed******
+2019-06-26 10:53:09,074 - BaseTest -INFO - *****TC003_PutRequest update employee info started******
+2019-06-26 10:53:09,090 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-26 10:53:12,850 - BaseTest -INFO - *****Update employee details based on emp ID******
+2019-06-26 10:53:16,548 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-26 10:53:16,562 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-26 10:56:58,750 - BaseTest -INFO - *****Test started TC001_GetWeatherDetails*****
+2019-06-26 10:57:07,629 - BaseTest -INFO - *****Validating content-type Header field*****
+2019-06-26 10:57:07,644 - BaseTest -INFO - *****Validating response body*****
+2019-06-26 10:57:07,702 - BaseTest -INFO - *****Validating response time*****
+2019-06-26 10:57:07,713 - BaseTest -INFO - *****Vaidating status code of the response*****
+2019-06-26 10:57:07,721 - BaseTest -INFO - *****Validating status line of the response*****
+2019-06-26 10:57:07,729 - BaseTest -INFO - *****Test Completed*****
+2019-06-26 10:57:07,746 - BaseTest -INFO - *****TC002 Started for Post request*****
+2019-06-26 10:57:11,793 - BaseTest -INFO - *****Verify response body contains the input params*****
+2019-06-26 10:57:11,826 - BaseTest -INFO - *****Verifying status code of the response*****
+2019-06-26 10:57:11,834 - BaseTest -INFO - *****Verify status line of the response*****
+2019-06-26 10:57:11,839 - BaseTest -INFO - *****TC002_PostRequestAddEmployee Test completed******
+2019-06-26 10:57:11,846 - BaseTest -INFO - *****TC003_PutRequest update employee info started******
+2019-06-26 10:57:11,851 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-26 10:57:15,628 - BaseTest -INFO - *****Update employee details based on emp ID******
+2019-06-26 10:57:19,299 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-26 10:57:19,309 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-26 10:58:50,443 - BaseTest -INFO - *****Test started TC001_GetWeatherDetails*****
+2019-06-26 10:58:58,309 - BaseTest -INFO - *****Validating content-type Header field*****
+2019-06-26 10:58:58,326 - BaseTest -INFO - *****Validating response body*****
+2019-06-26 10:58:58,375 - BaseTest -INFO - *****Validating response time*****
+2019-06-26 10:58:58,388 - BaseTest -INFO - *****Vaidating status code of the response*****
+2019-06-26 10:58:58,404 - BaseTest -INFO - *****Validating status line of the response*****
+2019-06-26 10:58:58,413 - BaseTest -INFO - *****Test Completed*****
+2019-06-26 10:58:58,427 - BaseTest -INFO - *****TC002 Started for Post request*****
+2019-06-26 10:59:02,526 - BaseTest -INFO - *****Verify response body contains the input params*****
+2019-06-26 10:59:02,541 - BaseTest -INFO - *****Verifying status code of the response*****
+2019-06-26 10:59:02,564 - BaseTest -INFO - *****Verify status line of the response*****
+2019-06-26 10:59:02,573 - BaseTest -INFO - *****TC002_PostRequestAddEmployee Test completed******
+2019-06-26 10:59:02,580 - BaseTest -INFO - *****TC003_PutRequest update employee info started******
+2019-06-26 10:59:02,588 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-26 10:59:06,369 - BaseTest -INFO - *****Update employee details based on emp ID******
+2019-06-26 10:59:10,070 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-26 10:59:10,080 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-26 18:38:57,845 - BaseTest -INFO - *****Test started TC001_GetWeatherDetails*****
+2019-06-26 18:39:07,733 - BaseTest -INFO - *****Validating content-type Header field*****
+2019-06-26 18:39:07,749 - BaseTest -INFO - *****Validating response body*****
+2019-06-26 18:39:07,811 - BaseTest -INFO - *****Validating response time*****
+2019-06-26 18:39:07,811 - BaseTest -INFO - *****Vaidating status code of the response*****
+2019-06-26 18:39:07,811 - BaseTest -INFO - *****Validating status line of the response*****
+2019-06-26 18:39:07,827 - BaseTest -INFO - *****Test Completed*****
+2019-06-26 18:39:07,842 - BaseTest -INFO - *****TC002 Started for Post request*****
+2019-06-26 18:39:12,149 - BaseTest -INFO - *****Verify response body contains the input params*****
+2019-06-26 18:39:12,158 - BaseTest -INFO - *****Verifying status code of the response*****
+2019-06-26 18:39:12,161 - BaseTest -INFO - *****Verify status line of the response*****
+2019-06-26 18:39:12,163 - BaseTest -INFO - *****TC002_PostRequestAddEmployee Test completed******
+2019-06-26 18:39:12,166 - BaseTest -INFO - *****TC003_PutRequest update employee info started******
+2019-06-26 18:39:12,166 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-26 18:39:16,032 - BaseTest -INFO - *****Update employee details based on emp ID******
+2019-06-26 18:39:19,852 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-26 18:39:19,859 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-26 18:50:25,124 - BaseTest -INFO - *****Test started TC001_GetWeatherDetails*****
+2019-06-26 18:50:34,501 - BaseTest -INFO - *****Validating content-type Header field*****
+2019-06-26 18:50:34,532 - BaseTest -INFO - *****Validating response body*****
+2019-06-26 18:50:34,641 - BaseTest -INFO - *****Validating response time*****
+2019-06-26 18:50:34,641 - BaseTest -INFO - *****Vaidating status code of the response*****
+2019-06-26 18:50:34,657 - BaseTest -INFO - *****Validating status line of the response*****
+2019-06-26 18:50:34,657 - BaseTest -INFO - *****Test Completed*****
+2019-06-26 18:50:34,673 - BaseTest -INFO - *****TC002 Started for Post request*****
+2019-06-26 18:50:38,632 - BaseTest -INFO - *****Verify response body contains the input params*****
+2019-06-26 18:50:38,632 - BaseTest -INFO - *****Verifying status code of the response*****
+2019-06-26 18:50:38,632 - BaseTest -INFO - *****Verify status line of the response*****
+2019-06-26 18:50:38,632 - BaseTest -INFO - *****TC002_PostRequestAddEmployee Test completed******
+2019-06-26 18:50:38,648 - BaseTest -INFO - *****TC003_PutRequest update employee info started******
+2019-06-26 18:50:38,648 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-26 18:50:42,442 - BaseTest -INFO - *****Update employee details based on emp ID******
+2019-06-26 18:50:46,181 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-26 18:50:46,185 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****
+2019-06-26 18:53:20,741 - BaseTest -INFO - *****Test started TC001_GetWeatherDetails*****
+2019-06-26 18:53:30,178 - BaseTest -INFO - *****Validating content-type Header field*****
+2019-06-26 18:53:30,194 - BaseTest -INFO - *****Validating response body*****
+2019-06-26 18:53:30,257 - BaseTest -INFO - *****Validating response time*****
+2019-06-26 18:53:30,257 - BaseTest -INFO - *****Vaidating status code of the response*****
+2019-06-26 18:53:30,257 - BaseTest -INFO - *****Validating status line of the response*****
+2019-06-26 18:53:30,257 - BaseTest -INFO - *****Test Completed*****
+2019-06-26 18:53:30,288 - BaseTest -INFO - *****TC002 Started for Post request*****
+2019-06-26 18:53:34,147 - BaseTest -INFO - *****Verify response body contains the input params*****
+2019-06-26 18:53:34,147 - BaseTest -INFO - *****Verifying status code of the response*****
+2019-06-26 18:53:34,147 - BaseTest -INFO - *****Verify status line of the response*****
+2019-06-26 18:53:34,147 - BaseTest -INFO - *****TC002_PostRequestAddEmployee Test completed******
+2019-06-26 18:53:34,163 - BaseTest -INFO - *****TC003_PutRequest update employee info started******
+2019-06-26 18:53:34,163 - BaseTest -INFO - *****Verify employee ID exist in database before taking action****
+2019-06-26 18:53:37,991 - BaseTest -INFO - *****Update employee details based on emp ID******
+2019-06-26 18:53:41,726 - BaseTest -INFO - *****Verify updated details in the response body******
+2019-06-26 18:53:41,726 - BaseTest -INFO - *****TC003_PutRequest_UpdCustInfo Completed*****

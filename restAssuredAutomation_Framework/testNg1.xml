@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RestApi Test Suite">
+<test thread-count="3" name="RestApiTest">
+	<classes>
+		<class name="com.automation.testCases.TC001_GetWeatherDetails"></class>
+		<class name="com.automation.testCases.TC002_PostRequestAddEmployee"></class>
+		<class name="com.automation.testCases.TC003_PutRequest_UpdEmpInfo"></class>
+		
+	</classes>
+</test>
+</suite>

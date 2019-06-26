@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RestApi Test Suite]">
+  <test thread-count="5" name="RestApiTest(failed)">
+    <classes>
+      <class name="com.automation.testCases.TC003_PutRequest_UpdEmpInfo">
+        <methods>
+          <include name="verifyResponseBody"/>
+          <include name="tearDown"/>
+          <include name="setUpData"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.automation.testCases.TC003_PutRequest_UpdEmpInfo -->
+      <class name="com.automation.testCases.TC002_PostRequestAddEmployee">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUpCreateEmployee"/>
+          <include name="verifyResponseBody"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.automation.testCases.TC002_PostRequestAddEmployee -->
+    </classes>
+  </test> <!-- RestApiTest(failed) -->
+</suite> <!-- Failed suite [RestApi Test Suite] -->
